@@ -144,7 +144,7 @@ function Landing() {
             <div className="lcr-buttonContainer">
               {headerData.resumePdf && (
                 <a
-                  href="https://drive.google.com/file/d/1i6fEK9pOuSm3KKaoqjy82U1K_vTTsGzz/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1VAlqTFSVByhHlGw3XCFty4tqiGPamzvB/view?usp=sharing"
                   target="_blank"
                   rel="noreferrer"
                 >
